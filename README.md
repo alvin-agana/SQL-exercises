@@ -6,4 +6,4 @@ This repository holds some of the SQL exercises I've done in Colt Steele's Udemy
 
 - Learned a lot about web frameworks like Express, HTTP methods, and how applications communicate with relational databases like MySQL.
 
-![alt text](/Users/alvinagana/Desktop/sqlproject.png)
+![alt text](/images/sqlproject.png)
